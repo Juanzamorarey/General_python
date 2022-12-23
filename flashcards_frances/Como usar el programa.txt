@@ -1,0 +1,29 @@
+paso 1. 
+
+Descarga un csv e introduce en él todas las palabras que quieras practicar con equivalencias. Ejemplo:
+
+frances, español
+garçon, chico
+libre, libro
+ville, ciudad
+...
+
+(En el repo ya tienes algunos csv de ejemplo)
+
+paso 2.
+
+pulsa "open csv" e introduce el nombre de la lengua extranjera y de la lengua nativa. Por ejemplo:
+frances
+español
+
+paso 3. 
+pulsa aceptar y selecciona el csv en cuestión. El csv debe estar en el mismo path.
+
+paso 4.
+pulsa generar palabra y aparecerá una palabra en el campo "Palabra a traducir"
+
+paso 5.
+Introduce la traducción y pulsa Comprobar
+
+paso 6. 
+Repite hasta aburrirte
